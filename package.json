@@ -1,0 +1,13 @@
+{
+  "name": "sistema_ventas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "react-router-dom": "^6.24.0",
+    "sequelize": "^6.0.0"
+  }
+}
